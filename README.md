@@ -14,6 +14,7 @@ A curated list of awesome time management tools, apps, and resources to help you
 
 ## Time Tracking Tools
 
+- [TinyTelegramTools](https://tg.zovo.one) - A suite of free Telegram mini app bots for timers, reminders and habits, each with a public guide library.
 Here's a selection of top [time tracking tools](https://productivity.directory/category/time-tracking) that can help you keep track of your work hours, analyze [productivity](https://blog.productivity.directory/what-is-productivity-bdd6bc399f6f), and manage your projects more effectively. 
 
 1. **[Toggl Track](https://toggl.com/track/)** - [review](https://productivity.directory/toggl) - Versatile time tracking app with a user-friendly interface, suitable for individuals and teams looking to measure and optimize their productivity.
